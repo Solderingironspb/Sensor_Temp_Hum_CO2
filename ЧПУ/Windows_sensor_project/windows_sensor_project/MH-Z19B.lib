@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# MH-Z19B
+#
+DEF MH-Z19B U 0 40 Y Y 1 L N
+F0 "U" 0 0 50 H I L BNN
+F1 "MH-Z19B" 0 0 50 H I L BNN
+F2 "MH-Z19B-FOOT" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Package" 0 0 50 H I L BNN "Package"
+F5 "\\nIntelligent Infrared CO2 Module\\n" -12 -78 50 H I L BNN "Description"
+F6 "None" 0 0 50 H I L BNN "Price"
+F7 "MH-Z19B" 0 0 50 H I L BNN "MP"
+F8 "Not in stock" 0 0 50 H I L BNN "Availability"
+F9 "Winsen" 0 0 50 H I L BNN "MF"
+DRAW
+S 0 0 709 394 0 0 10 f
+P 2 0 0 10 0 0 0 394 N
+P 2 0 0 10 709 0 0 0 N
+X GND GND -97 257 100 R 40 40 0 0 B
+X RX RX 906 39 200 L 40 40 0 0 B
+X TX TX 908 111 200 L 40 40 0 0 B
+X VIN VIN -97 39 100 R 40 40 0 0 B
+ENDDRAW
+ENDDEF
+#
+#End Library
