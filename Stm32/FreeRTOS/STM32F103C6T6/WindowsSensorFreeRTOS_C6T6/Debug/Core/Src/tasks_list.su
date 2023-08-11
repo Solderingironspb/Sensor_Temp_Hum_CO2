@@ -1,0 +1,4 @@
+tasks_list.c:24:6:vTask1_MH19Z_Request	32	static
+tasks_list.c:53:6:vTask2_HDC1080_Request	24	static
+tasks_list.c:91:6:vTask3_MQTT_Send	16	static
+tasks_list.c:125:6:vApplicationIdleHook	4	static

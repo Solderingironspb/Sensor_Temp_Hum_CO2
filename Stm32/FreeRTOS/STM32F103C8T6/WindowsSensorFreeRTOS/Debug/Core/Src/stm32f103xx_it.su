@@ -1,0 +1,3 @@
+stm32f103xx_it.c:14:6:USART1_IRQHandler	16	static
+stm32f103xx_it.c:45:6:USART2_IRQHandler	8	static
+stm32f103xx_it.c:64:6:TIM3_IRQHandler	4	static

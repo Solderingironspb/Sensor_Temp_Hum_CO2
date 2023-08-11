@@ -1,0 +1,4 @@
+MQTT.c:11:6:UART_MQTT_Check_net	8	static
+MQTT.c:42:6:UART_MQTT_Checksumm_validation	24	static
+MQTT.c:63:6:UART_MQTT_Send_data_uint16_t	24	static
+MQTT.c:84:6:UART_MQTT_Send_data_float	32	static
